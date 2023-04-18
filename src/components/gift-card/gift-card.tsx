@@ -33,7 +33,6 @@ export const GiftCard = ({
             })}
             elevation={Elevation.FOUR}
         >
-            <img src={photoURL} alt="" />
             <div className={styles['card-body']}>
                 <H1 className={styles.title}>LASHES & HAIR EXTENTIONS</H1>
                 <H5 className={styles.desc}>
